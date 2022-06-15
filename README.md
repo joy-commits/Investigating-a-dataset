@@ -37,3 +37,14 @@ This dataset consists of 21 columns: <br>
     2. What movie has the longest runtime? 
     3. What movie generated the highest revenue?
     4. Does the popularity of a movie determine the revenue generated?
+
+
+<a id='conclusions'></a>
+## Conclusions
+
+Based on analysis done, it can be concluded that the most popular movie is "Jurassic World", which was directed by Colin Trevorrow. "The Story of Film: An Odyssey" had the longest runtime.
+"Avatar", directed by James Cameron generated the highest revenue, totalling over 2.7 billion.
+Furthermore, a positive linear relationship is observed between popularity and revenue. This indicates that as popularity increases, there is a corresponding increase in revenue generated. However, this relationship isn't a strong one.
+
+### Limitation(s)
+Variables like the revenue was not assigned any specific currency unit. It could be possible that the revenue value might assume that of the country in which the movie was produced.
